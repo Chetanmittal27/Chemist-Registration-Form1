@@ -105,7 +105,5 @@ npm run build
 
 ## 🙌 Author
 
-**Chetan Mittal**  
-👨‍💻 Vice President, MCE Student Community  
-💼 Corporate Head, Department of Mathematics and Computing, DTU  
+**Chetan Mittal**   
 🌐 [GitHub](https://github.com/Chetanmittal27)
